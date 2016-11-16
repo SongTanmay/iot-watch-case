@@ -10,3 +10,6 @@ Photographs:
 
 - When user is looking at watch.
 ![When user is looking at watch](https://github.com/SongTanmay/iot-watch-case/blob/master/on.jpg)
+
+- Final finished product.
+![Final finished product](https://github.com/SongTanmay/iot-watch-case/blob/master/final.jpeg)
